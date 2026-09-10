@@ -53,3 +53,4 @@ The main goal is to see how simple decisions made by agents can lead to larger p
 - Create graphs showing how the society changes
 - Add machine learning to the agents
 - Add a visual version of the simulation
+
